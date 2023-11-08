@@ -5,7 +5,7 @@ complete an end-to-end Data Engineering project from start to finish. Complete
 instructions will be given on the desired architecture and steps to 
 take to complete each project.
 
-The expectation of these Project(s) is that you will do everything, including Bash, Dockerfiles, README's, coding, etc.
+The expectation of these Project(s) is that you will do everything, including `Bash`, `Dockerfiles`, `README`'s, `coding`, etc.
 Nothing is going to be done for you, it forces you to not rely on others and skip
 things you might not be familiar with. Growth comes with struggle.
 
@@ -39,6 +39,11 @@ the requirements.
 
 #### Project 1
 ```
+In this first Data Engineering project the idea is to setup a Data Platform
+that will provide the ability to visually build a data pipeline capable of
+downloading some raw TSV data, processing it, and depositing the results into
+a Lake House, then displaying a Dashboard of the results.
+
 This project tests your skills to understand high level requirements and turn them
 into a technical details without much guidance.
 
