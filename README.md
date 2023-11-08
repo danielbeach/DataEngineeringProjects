@@ -36,3 +36,11 @@ multiple techs and concepts not limited to, but including
 Good Data Engineers are well-rounded and are able to work across multiple techs and concepts,
 as well as the ability to understand clear and unclear directions, and develop architecture to support
 the requirements.
+
+#### Project 1
+This project tests your skills to understand high level requirements and turn them
+into a technical details without much guidance.
+
+It also tests your ability to work on the entire Data Engineering stack from `bash`,
+ to `Python` and `Docker` as well as various tools.
+
